@@ -215,10 +215,6 @@ Ekstensi ini **tidak mengumpulkan, menyimpan, atau mengirim data ke server mana 
 | **1.1.0** | Antarmuka pindah ke side panel dengan desain modern dan minimalis; timeout default 90 detik; download diverifikasi dengan jalur cadangan; deteksi gambar lebih longgar. |
 | **1.0.0** | Rilis awal: batch prompt, kirim otomatis, dan download otomatis. |
 
-## Lisensi
-
-Dirilis di bawah lisensi [MIT](LICENSE).
-
 ---
 
 <div align="center">
