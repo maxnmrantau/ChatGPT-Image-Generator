@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="icons/icon128.png" alt="ChatGPT Image Batch Generator" width="96">
+<img width="429" height="907" alt="image" src="https://github.com/user-attachments/assets/7572d6a2-6394-463c-85da-a1ddc2aa04c2" />
+
 
 # ChatGPT Image Batch Generator
 
